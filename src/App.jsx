@@ -24,6 +24,7 @@ function App() {
   };
   return (
     <>
+    あ
       <ProfileCard profile={profiles[count]} setProfile={setCount} />
       <button style={{
         border: '1px solid #ccc',
